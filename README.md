@@ -1,6 +1,6 @@
-# Hearthvale Launcher
+# Requiem Launcher
 
-Download **HearthvaleLauncher.exe** from the Releases page and run it.
+Download **RequiemLauncher.exe** from the Releases page and run it.
 
 Windows will warn about an unsigned program. Click **More info**, then **Run anyway**.
 It is unsigned because code signing certificates cost money, not because anything is wrong.
